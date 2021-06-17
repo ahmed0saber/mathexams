@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-58-fxnpk!^7$u&ug=+kk#keem8z&gpg!7l=j33%#+6yxa+gr!p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['mathexams.herokuapp.com']
+ALLOWED_HOSTS = ['mathexams.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
