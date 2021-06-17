@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-58-fxnpk!^7$u&ug=+kk#keem8z&gpg!7l=j33%#+6yxa+gr!p'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mathexams.herokuapp.com']
 
 
 # Application definition
